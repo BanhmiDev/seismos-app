@@ -1,5 +1,6 @@
 {
     "app_title": "Seismos",
+    "app_subtitle": "Earthquake Monitoring Tool",
     "app_about": "Seismos is an earthquake monitoring tool, listing latest earthquake data from around the world.",
 
     "earthquake_listing": "Earthquake Listing",
@@ -8,6 +9,7 @@
     "notifications": "Notifications",
     "push_notifications": "Push Notifications",
     "general_notifications": "General Notifications",
+    "earthquake_preparations": "Earthquake Preparations",
     "miscellaneous": "Miscellaneous",
     "contribute_translation": "Contribute Translation",
     "remove_ads": "Remove Ads",
@@ -15,7 +17,7 @@
     "feedback": "Feedback",
     "privacy_policy": "Privacy Policy",
     "info": "Info",
-
+    
     "desc_enables": "Enables #",
     "general": "General",
     "language": "Language",
@@ -43,10 +45,6 @@
     "magnitudes_today": "Earthquakes from Today",
     "reload": "Reload",
 
-    "refresh_complete": "Refresh complete",
-    "pull_to_refresh": "Pull to refresh",
-    "release_to_refresh": "Release to refresh",
-
     "all_regions": "All Regions",
     "north_america": "North America",
     "south_america": "South America",
@@ -73,7 +71,7 @@
     "rms": "Travel Time Residual",
     "gap": "Azimuthal Gap",
     "data_contributors": "Data Contributors",
-    "open_source_in_browser": "Open in Browser (USGS)",
+    "open_in_browser": "Open in Browser",
     "copied_to_clipboard": "Copied to Clipboard",
 
     "sort_by_date": "Sort by Date",
@@ -85,6 +83,7 @@
     "ok": "OK",
     "cancel": "Cancel",
     "error": "Error",
+    "share": "Share",
 
     "url_redirect_warning": "You will be redirected via your primary browser.",
 
@@ -94,8 +93,9 @@
     "restore_inapp_success": "Successfully restored previous In-App purchase!",
     "restore_inapp_error": "Failed to restore previous In-App purchase, please try again later!",
 
-    "error_enable_gps": "Could not enable GPS service, the service could be offline. Internet connection is required.",
-    "error_no_data": "Could not fetch data, try again later.",
+    "error_permission": "Notification permissions are required, please change in the device's settings.",
+    "error_enable_gps": "Could not enable GPS service, the service could be offline. Internet connection and permission is required.",
+    "error_no_data": "Could not fetch data, maby this resource was deleted, try again later.",
     "error_no_search_data": "No results found, try a different search selection.",
     "error_inapp_init": "Could not load In-App Purchasing, try again later.",
     "error_inapp_products": "Could not fetch products, try again later.",

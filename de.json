@@ -1,5 +1,6 @@
 {
     "app_title": "Seismos",
+    "app_subtitle": "Erdbebenüberwachungs-tool",
     "app_about": "Seismos ist ein Tool zur Erdbebenüberwachung. Erdbebendaten aus der ganzen Welt in einer App.",
 
     "earthquake_listing": "Erdbeben Liste",
@@ -8,6 +9,7 @@
     "notifications": "Benachrichtigungen",
     "push_notifications": "Push-Benachrichtigung",
     "general_notifications": "Allgemeine Benachrichtigung",
+    "earthquake_preparations": "Erdbeben Vorbereitungen",
     "miscellaneous": "Sonstiges",
     "contribute_translation": "Übersetzungs-Beitrag",
     "remove_ads": "Werbung Entfernen",
@@ -43,10 +45,6 @@
     "magnitudes_today": "Erdbeben Heute",
     "reload": "Neuladen",
 
-    "refresh_complete": "Aktualisierung abgeschlossen",
-    "pull_to_refresh": "Zum Aktualisieren ziehen",
-    "release_to_refresh": "Zum Aktualisieren loslassen",
-
     "all_regions": "Alle Regionen",
     "north_america": "Nordamerika",
     "south_america": "Südamerika",
@@ -73,7 +71,7 @@
     "rms": "Reisezeit Faktor",
     "gap": "Azimutalwinkel",
     "data_contributors": "Daten-Beitrag",
-    "open_source_in_browser": "Öffne im Browser (USGS)",
+    "open_in_browser": "Öffne im Browser",
     "copied_to_clipboard": "In Zwischenablage kopiert",
 
     "sort_by_date": "Sortiere nach Datum",
@@ -85,6 +83,7 @@
     "ok": "OK",
     "cancel": "Abbrechen",
     "error": "Fehler",
+    "share": "Teilen",
 
     "url_redirect_warning": "Du wirst über deinen primären Browser weitergeleitet.",
 
@@ -94,8 +93,9 @@
     "restore_inapp_success": "In-App-Kauf erfolgreich wiederhergestellt!",
     "restore_inapp_error": "Fehler beim Wiederherstellen des vorherigen In-App-Kaufs. Bitte versuchen es später erneut!",
 
-    "error_enable_gps": "Der GPS-Dienst konnte nicht aktiviert werden. Internetverbindung wird benötigt.",
-    "error_no_data": "Daten konnten nicht abgerufen werden, versuche es später erneut.",
+    "error_permission": "Benachrichtigungsberechtigungen sind erforderlich, bitte gehe in die Einstellungen des Geräts.",
+    "error_enable_gps": "Der GPS-Dienst konnte nicht aktiviert werden. Internetverbindung und Rechte werden benötigt.",
+    "error_no_data": "Daten konnten nicht abgerufen werden, vielleicht wurde diese Ressource gelöscht, versuche es später erneut.",
     "error_no_search_data": "Keine Ergebnisse gefunden, versuche es mit einer anderen Suchauswahl.",
     "error_inapp_init": "In-App-Einkauf konnte nicht geladen werden, versuche es später erneut.",
     "error_inapp_products": "Produkte konnten nicht abgerufen werden, versuche es später erneut.",
