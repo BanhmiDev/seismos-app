@@ -32,8 +32,7 @@
     "detail_map": "Carte détaillée",
     "save_search_filters": "Enregistrement du filtre de recherche",
     "restore_inapp": "Restaurer l'achat dans l'application",
-    "desc_restore_inapp": "Restaure les achats intégrés",
-   
+
     "nearby_earthquakes_only": "Séismes à proximité uniquement",
     "desc_nearby_earthquakes_only": "Utilise votre position GPS",
     "country_instead_region": "Pays au lieu de région",
@@ -82,13 +81,13 @@
     "close": "Fermer",
     "ok": "OK",
     "cancel": "Annuler",
+    "success": "Succès",
     "error": "Erreur",
     "share": "Partager",
 
     "url_redirect_warning": "Vous serez redirigé via votre navigateur principal.",
 
     "intro_inapp": "Seismos est une application entièrement gratuite et financée par la publicité. Les achats précédents peuvent être restaurés ici ou dans la page des paramètres.",
-    "outro_inapp": "Vous devrez peut-être fermer cette page après avoir acheté avec succès la suppression de l'annonce.",
 
     "restore_inapp_success": "Achat In-App précédent restauré avec succès!",
     "restore_inapp_error": "Échec de la restauration de l'achat In-App précédent, veuillez réessayer plus tard!",
@@ -97,10 +96,15 @@
     "error_enable_gps": "Impossible d'activer le service GPS, le service peut être hors ligne. Une connexion Internet et une autorisation sont requises.",
     "error_no_data": "Impossible de récupérer les données, peut-être que cela a été supprimé, réessayez plus tard.",
     "error_no_search_data": "Aucun résultat trouvé, essayez une autre sélection de recherche.",
-    "error_inapp_init": "Impossible de charger les achats intégrés, réessayez plus tard.",
-    "error_inapp_products": "Impossible de récupérer les produits, réessayez plus tard.",
-    "error_inapp_purchase": "Impossible de finaliser l'achat, réessayez plus tard.",
+    "error_inapp": "Impossible d'initialiser ou de traiter les achats intégrés, veuillez réessayer plus tard.",
+    "error_support": "Veuillez envoyer un message à support@anteger.com si ce problème persiste.",
     "error_launch": "Impossible de lancer : #",
+
+    "map_type": "Type de carte",
+    "map_standard": "Standard",
+    "map_hybrid": "Hybride",
+    "map_satellite": "Satellite",
+    "map_terrain": "Terrain",
 
     "rate_dialog_title": "Évaluer l'application",
     "rate_dialog_message": "Si vous aimez jouer à cette application, cela vous dérangerait-il de prendre un moment pour la noter? Cela ne prendra pas plus d'une minute. Merci pour votre aide!",

@@ -32,7 +32,6 @@
     "detail_map": "Detail Karte",
     "save_search_filters": "Such-Filter Speicherung",
     "restore_inapp": "In-App Kauf wiederherstellen",
-    "desc_restore_inapp": "Stellt In-App-Käufe wieder her",
 
     "nearby_earthquakes_only": "Nur Erdbeben in der Nähe",
     "desc_nearby_earthquakes_only": "Verwendet GPS-Standort",
@@ -82,14 +81,14 @@
     "close": "Schließen",
     "ok": "OK",
     "cancel": "Abbrechen",
+    "success": "Erfolg",
     "error": "Fehler",
     "share": "Teilen",
 
     "url_redirect_warning": "Du wirst über deinen primären Browser weitergeleitet.",
 
     "intro_inapp": "Seismos ist eine kostenlose, werbefinanzierte App. Frühere Einkäufe können hier oder auf der Einstellungsseite wiederhergestellt werden.",
-    "outro_inapp": "Möglicherweise muss diese Seite geschlossen werden, nachdem der In-App-Kauf abgeschlossen wurde.",
-
+    
     "restore_inapp_success": "In-App-Kauf erfolgreich wiederhergestellt!",
     "restore_inapp_error": "Fehler beim Wiederherstellen des vorherigen In-App-Kaufs. Bitte versuchen es später erneut!",
 
@@ -97,10 +96,15 @@
     "error_enable_gps": "Der GPS-Dienst konnte nicht aktiviert werden. Internetverbindung und Rechte werden benötigt.",
     "error_no_data": "Daten konnten nicht abgerufen werden, vielleicht wurde diese Ressource gelöscht, versuche es später erneut.",
     "error_no_search_data": "Keine Ergebnisse gefunden, versuche es mit einer anderen Suchauswahl.",
-    "error_inapp_init": "In-App-Einkauf konnte nicht geladen werden, versuche es später erneut.",
-    "error_inapp_products": "Produkte konnten nicht abgerufen werden, versuche es später erneut.",
-    "error_inapp_purchase": "Der Kauf konnte nicht abgeschlossen werden, versuche es später erneut.",
+    "error_inapp": "In-App-Käufe konnten nicht initialisiert oder verarbeitet werden. Bitte versuche es später erneut.",
+    "error_support": "Bitte sende eine Nachricht an support@anteger.com, wenn dieses Problem weiterhin besteht.",
     "error_launch": "Konnte nicht öffnen: #",
+
+    "map_type": "Map Typ",
+    "map_standard": "Standard",
+    "map_hybrid": "Hybrid",
+    "map_satellite": "Satellit",
+    "map_terrain": "Terrain",
 
     "rate_dialog_title": "Bewerte diese App",
     "rate_dialog_message": "Falls dir diese App gefällt, könntest du dir bitte einen Moment Zeit nehmen, sie zu bewerten? Es dauert nicht länger als eine Minute. Vielen Dank für deine Unterstützung!",
