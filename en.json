@@ -93,7 +93,7 @@
     "restore_inapp_error": "Failed to restore previous In-App purchase, please try again later!",
 
     "error_permission": "Notification permissions are required, please change in the device's settings.",
-    "error_enable_gps": "Could not enable GPS service, the service could be offline. Internet connection and permission is required.",
+    "error_enable_gps": "Could not modify GPS service, the service could be offline. Internet connection and permission is required.",
     "error_no_data": "Could not fetch data, maby this resource was deleted, try again later.",
     "error_no_search_data": "No results found, try a different search selection.",
     "error_inapp": "Could not initialize or process In-App purchases, please try again later.",
@@ -110,5 +110,14 @@
     "rate_dialog_message": "If you enjoy playing this app, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!",
     "rate_dialog_ok": "Rate Now",
     "rate_dialog_cancel": "Later",
-    "rate_dialog_no": "No, Thanks"
+    "rate_dialog_no": "No, Thanks",
+
+    "nearby_earthquakes_radius": "Nearby Earthquakes Radius",
+    "nearby_earthquakes_radius_hint": "Nearby alerts are indirectly stored by a cell-grid rounding system to anonymize your data, you can optionally set the maximum radius",
+    "radius_50": "50km/30mi",
+    "radius_100": "100km/60mi",
+    "radius_150": "150km/90mi",
+    "radius_200": "200km/120mi",
+    "radius_250": "250km/150mi",
+    "radius_300": "300km/180mi"
 }

@@ -111,5 +111,15 @@
     "rate_dialog_message": "이 앱을 즐기시려면 잠시 시간을내어 주시겠습니까? 1 분 이상 걸리지 않습니다. 지원해 주셔서 감사합니다!",
     "rate_dialog_ok": "지금 평가",
     "rate_dialog_cancel": "나중에",
-    "rate_dialog_no": "아니요, 감사합니다"
+    "rate_dialog_no": "아니요, 감사합니다",
+
+
+    "nearby_earthquakes_radius": "인근 지진 반경",
+    "nearby_earthquakes_radius_hint": "가까운 경고는 데이터를 익명화하기 위해 셀 그리드 반올림 시스템에 의해 간접적으로 저장되며, 선택적으로 최대 반경을 설정할 수 있습니다",
+    "radius_50": "50km/30mi",
+    "radius_100": "100km/60mi",
+    "radius_150": "150km/90mi",
+    "radius_200": "200km/120mi",
+    "radius_250": "250km/150mi",
+    "radius_300": "300km/180mi"
 }

@@ -110,5 +110,14 @@
     "rate_dialog_message": "Si te gusta jugar esta aplicación, ¿te importaría tomarte un momento para calificarla? No te tomará más de un minuto. ¡Gracias por tu apoyo!",
     "rate_dialog_ok": "Calificar ahora",
     "rate_dialog_cancel": "Más tarde",
-    "rate_dialog_no": "No, gracias"
+    "rate_dialog_no": "No, gracias",
+
+    "nearby_earthquakes_radius": "Cerca de Earthquakes Radius",
+    "nearby_earthquakes_radius_hint": "Las alertas cercanas son almacenadas indirectamente por un sistema de redondeo de cuadrícula de celdas para anonimizar sus datos, puede establecer opcionalmente el radio máximo",
+    "radius_50": "50km/30mi",
+    "radius_100": "100km/60mi",
+    "radius_150": "150km/90mi",
+    "radius_200": "200km/120mi",
+    "radius_250": "250km/150mi",
+    "radius_300": "300km/180mi"
 }

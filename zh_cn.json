@@ -110,5 +110,14 @@
     "rate_dialog_message": "如果您喜欢玩这个应用程序,您介意花点时间对其评分吗？时间不会超过一分钟。感谢您的支持！",
     "rate_dialog_ok": "立即评分",
     "rate_dialog_cancel": "稍后",
-    "rate_dialog_no": "不,谢谢"
+    "rate_dialog_no": "不,谢谢",
+
+    "nearby_earthquakes_radius": "附近地震半径",
+    "nearby_earthquakes_radius_hint": "附近的警报由蜂窝网格舍入系统间接存储，以匿名化数据，您可以选择设置最大半径",
+    "radius_50": "50公里/30英里",
+    "radius_100": "100公里/60英里",
+    "radius_150": "150公里/90英里",
+    "radius_200": "200公里/120英里",
+    "radius_250": "250公里/150英里",
+    "radius_300": "300公里/180英里"
 }
