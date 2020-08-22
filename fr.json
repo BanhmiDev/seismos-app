@@ -33,8 +33,6 @@
     "save_search_filters": "Enregistrement du filtre de recherche",
     "restore_inapp": "Restaurer l'achat dans l'application",
 
-    "nearby_earthquakes_only": "Séismes à proximité uniquement",
-    "desc_nearby_earthquakes_only": "Utilise votre position GPS",
     "country_instead_region": "Pays au lieu de région",
     "desc_country_instead_region": "Utilise le filtre de pays à la place",
     "country": "Pays",
@@ -112,12 +110,24 @@
     "rate_dialog_cancel": "Plus tard",
     "rate_dialog_no": "Non merci",
 
-    "nearby_earthquakes_radius": "Tremblements de terre Radius",
+    "nearby_earthquakes_radius": "Rayon GPS",
     "nearby_earthquakes_radius_hint": "Les alertes à proximité sont stockées indirectement par un système d’arrondissement de cellules pour anonymiser vos données, vous pouvez régler le rayon maximum",
     "radius_50": "50km/30mi",
     "radius_100": "100km/60mi",
     "radius_150": "150km/90mi",
     "radius_200": "200km/120mi",
     "radius_250": "250km/150mi",
-    "radius_300": "300km/180mi"
+    "radius_300": "300km/180mi",
+
+    "automatic_gps": "GPS automatique",
+    "desc_automatic_gps": "Utilise les coordonnées de votre appareil",
+    "manual_gps": "GPS manuel",
+    "desc_manual_gps": "Utilise les coordonnées manuelles",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "save": "Sauver",
+    "disable": "Désactiver",
+    "notification_gps": "Notification GPS",
+    "notification_non_gps": "Notification non GPS",
+    "notification_hint": "Vous pouvez basculer entre les notifications GPS et non GPS!"
 }

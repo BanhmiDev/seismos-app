@@ -33,8 +33,6 @@
     "save_search_filters": "Lưu bộ lọc tìm kiếm",
     "restore_inapp": "Khôi phục mua hàng trong ứng dụng",
 
-    "nearby_earthquakes_only": "Chỉ trận động đất gần đó",
-    "desc_nearby_earthquakes_only": "Sử dụng vị trí GPS của bạn",
     "country_instead_region": "Vùng thay vì quốc gia",
     "desc_country_instead_region": "Thay vào đó, sử dụng bộ lọc quốc gia",
     "country": "Quốc gia",
@@ -112,12 +110,24 @@
     "rate_dialog_cancel": "Sau này",
     "rate_dialog_no": "Không, cảm ơn",
 
-    "nearby_earthquakes_radius": "Lân cận động đất bán kính",
+    "nearby_earthquakes_radius": "Bán kính GPS",
     "nearby_earthquakes_radius_hint": "Cảnh báo lân cận được lưu trữ gián tiếp bởi hệ thống làm tròn ô lưới để ẩn danh dữ liệu của bạn, bạn có thể tùy chọn đặt bán kính tối đa",
     "radius_50": "50km/30mi",
     "radius_100": "100km/60mi",
     "radius_150": "150km/90mi",
     "radius_200": "200km/120mi",
     "radius_250": "250km/150mi",
-    "radius_300": "300km/180mi"
+    "radius_300": "300km/180mi",
+
+    "automatic_gps": "GPS tự động",
+    "desc_automatic_gps": "Sử dụng tọa độ của thiết bị của bạn",
+    "manual_gps": "GPS thủ công",
+    "desc_manual_gps": "Sử dụng tọa độ thủ công",
+    "latitude": "Vĩ độ",
+    "longitude": "Kinh độ",
+    "save": "Lưu",
+    "disable": "Tắt",
+    "notification_gps": "Thông báo GPS",
+    "notification_non_gps": "Thông báo không có GPS",
+    "notification_hint": "Bạn có thể chuyển đổi giữa thông báo GPS và không phải GPS!"
 }

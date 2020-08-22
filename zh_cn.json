@@ -33,8 +33,6 @@
     "save_search_filters": "保存搜索过滤器",
     "restore_inapp": "恢复应用内购买",
 
-    "nearby_earthquakes_only": "仅邻近地震",
-    "desc_nearby_earthquakes_only": "使用您的GPS位置",
     "country_instead_region": "国家代替地区",
     "desc_country_instead_region": "改为使用国家/地区过滤器",
     "country": "国家",
@@ -112,12 +110,24 @@
     "rate_dialog_cancel": "稍后",
     "rate_dialog_no": "不,谢谢",
 
-    "nearby_earthquakes_radius": "附近地震半径",
+    "nearby_earthquakes_radius": "GPS半径",
     "nearby_earthquakes_radius_hint": "附近的警报由蜂窝网格舍入系统间接存储，以匿名化数据，您可以选择设置最大半径",
     "radius_50": "50公里/30英里",
     "radius_100": "100公里/60英里",
     "radius_150": "150公里/90英里",
     "radius_200": "200公里/120英里",
     "radius_250": "250公里/150英里",
-    "radius_300": "300公里/180英里"
+    "radius_300": "300公里/180英里",
+
+    "automatic_gps": "自动GPS",
+    "desc_automatic_gps": "使用设备的坐标",
+    "manual_gps": "手动GPS",
+    "desc_manual_gps": "使用手动坐标",
+    "latitude": "纬度",
+    "longitude": "经度",
+    "save": "保存",
+    "disable": "禁用",
+    "notification_gps": "GPS通知",
+    "notification_non_gps": "非GPS通知",
+    "notification_hint": "您可以在GPS和非GPS通知之间切换！"
 }

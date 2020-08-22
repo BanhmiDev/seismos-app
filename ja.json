@@ -33,8 +33,6 @@
     "save_search_filters": "検索フィルターストレージ",
     "restore_inapp": "アプリ内購入の復元",
 
-    "nearby_earthquakes_only": "近くの地震のみ",
-    "desc_nearby_earthquakes_only": "GPS位置情報を使用する",
     "country_instead_region": "地域ではなく国",
     "desc_country_instead_region": "国フィルターを使用",
     "country": "国",
@@ -112,12 +110,24 @@
     "rate_dialog_cancel": "後でする",
     "rate_dialog_no": "いえ,結構です",
 
-    "nearby_earthquakes_radius": "近くの地震半径",
+    "nearby_earthquakes_radius": "GPS半径",
     "nearby_earthquakes_radius_hint": "近くのアラートは、データを匿名化するためにセルグリッドの丸めシステムによって間接的に保存され、必要に応じて最大半径を設定することができます",
     "radius_50": "50km/30mi",
     "radius_100": "100km/60mi",
     "radius_150": "150km/90mi",
     "radius_200": "200km/120mi",
     "radius_250": "250km/150mi",
-    "radius_300": "300km/180mi"
+    "radius_300": "300km/180mi",
+
+    "automatic_gps": "自動GPS",
+    "desc_automatic_gps": "デバイスの座標を使用します",
+    "manual_gps": "手動GPS",
+    "desc_manual_gps": "手動座標を使用",
+    "latitude": "緯度",
+    "longitude": "経度",
+    "save": "保存",
+    "disable": "無効にする",
+    "notification_gps": "GPS通知",
+    "notification_non_gps": "非GPS通知",
+    "notification_hint": "GPS通知と非GPS通知を切り替えることができます！"
 }

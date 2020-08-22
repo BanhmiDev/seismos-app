@@ -33,8 +33,6 @@
     "save_search_filters": "Сохранение поискового фильтра",
     "restore_inapp": "Восстановить покупки в приложении",
     
-    "nearby_earthquakes_only": "Только близлежащие землетрясения",
-    "desc_nearby_earthquakes_only": "Использует ваше местоположение GPS",
     "country_instead_region": "Страна вместо региона",
     "desc_country_instead_region": "Вместо этого использует фильтр страны",
     "country": "страна",
@@ -112,12 +110,24 @@
     "rate_dialog_cancel": "Позже",
     "rate_dialog_no": "Нет, спасибо",
 
-    "nearby_earthquakes_radius": "Радиус землетрясений рядом",
+    "nearby_earthquakes_radius": "Радиус GPS",
     "nearby_earthquakes_radius_hint": "Близлежащие оповещения косвенно хранятся системой округления ячейки для анонимизации данных, можно дополнительно установить максимальный радиус",
     "radius_50": "50km/30mi",
     "radius_100": "100km/60mi",
     "radius_150": "150km/90mi",
     "radius_200": "200km/120mi",
     "radius_250": "250km/150mi",
-    "radius_300": "300km/180mi"
+    "radius_300": "300km/180mi",
+
+    "automatic_gps": "Автоматический GPS",
+    "desc_automatic_gps": "Использует координаты вашего устройства",
+    "manual_gps": "Ручной GPS",
+    "desc_manual_gps": "Использует ручные координаты",
+    "latitude": "Широта",
+    "longitude": "Долгота",
+    "save": "Сохранить",
+    "disable": "Отключить",
+    "notification_gps": "Уведомление GPS",
+    "notification_non_gps": "Уведомление без GPS",
+    "notification_hint": "Вы можете переключаться между уведомлениями GPS и не-GPS!"
 }

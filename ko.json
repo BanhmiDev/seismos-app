@@ -33,8 +33,6 @@
     "save_search_filters": "검색 필터 저장",
     "restore_inapp": "앱 내 구매 복원",
     
-    "nearby_earthquakes_only": "인근 지진만 해당",
-    "desc_nearby_earthquakes_only": "GPS 위치 사용",
     "country_instead_region": "국가 대신 지역",
     "desc_country_instead_region": "국가 필터를 대신 사용",
     "country": "나라",
@@ -113,13 +111,24 @@
     "rate_dialog_cancel": "나중에",
     "rate_dialog_no": "아니요, 감사합니다",
 
-
-    "nearby_earthquakes_radius": "인근 지진 반경",
+    "nearby_earthquakes_radius": "GPS 반경",
     "nearby_earthquakes_radius_hint": "가까운 경고는 데이터를 익명화하기 위해 셀 그리드 반올림 시스템에 의해 간접적으로 저장되며, 선택적으로 최대 반경을 설정할 수 있습니다",
     "radius_50": "50km/30mi",
     "radius_100": "100km/60mi",
     "radius_150": "150km/90mi",
     "radius_200": "200km/120mi",
     "radius_250": "250km/150mi",
-    "radius_300": "300km/180mi"
+    "radius_300": "300km/180mi",
+
+    "automatic_gps": "자동 GPS",
+    "desc_automatic_gps": "장치 좌표 사용",
+    "manual_gps": "수동 GPS",
+    "desc_manual_gps": "수동 좌표 사용",
+    "latitude": "위도",
+    "longitude": "경도",
+    "save": "저장",
+    "disable": "비활성화",
+    "notification_gps": "GPS 알림",
+    "notification_non_gps": "비 GPS 알림",
+    "notification_hint": "GPS와 비 GPS 알림간에 전환 할 수 있습니다!"
 }
